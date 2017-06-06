@@ -36,3 +36,6 @@ Codeship Basic: https://documentation.codeship.com/basic/continuous-integration/
 **IMPORTANT: Keep your Percy token secret.** Anyone with access to your token can consume your account quota, though they cannot read data.
 
 </div>
+
+[!INCLUDE /docs/setup/-next-step-clients]
+[!INCLUDE /docs/-client-list]
